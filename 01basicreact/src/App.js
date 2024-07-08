@@ -1,9 +1,11 @@
-
-
+import Shiv from "./Shiv";
 
 function App() {
   return (
-   <h1>react | shivansh</h1>
+    <>
+    <Shiv/>
+    
+    </>
   );
 }
 
